@@ -1,0 +1,28 @@
+1. document management systems. Thick client and turn to web app
+
+integration plugin for powerschool
+
+2. access control
+convenience
+scan straight to software
+easy to share documents within an org
+
+3. privately funded
+
+4. school systems, but any company can utilize it
+
+5. the more clients that pay for the service the more money they have to scale
+
+6. automates scanning and filing documents
+ access granting permissions
+
+7. Docupilot
+panda doc
+m-files
+Noodle Intranet
+
+8. This software automates filing and eliminates the need to keep warehouses worth of paper. Requires less employees to scan and file documents. Secure solution. Makes documents more convenient and environmentally friendly
+
+
+Gavin Maier-Denk
+Zafer Khourdaji
